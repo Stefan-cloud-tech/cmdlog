@@ -1,0 +1,16 @@
+# CMD Log Better - GitHub Config
+# Edit this file to change settings without releasing a new mod version!
+# Lines starting with # are comments
+
+# Global chat WebSocket URL
+# Change this if your IP/port changes
+chat_url = ws://YOUR_IP_HERE:7420
+
+# Discord invite link
+discord_url = https://discord.gg/kDv228rCeW
+
+# Latest mod version (shown in CMD if outdated)
+latest_version = 12.0.0
+
+# Update message shown in CMD when outdated
+update_message = A new version of CMD Log Better is available!
