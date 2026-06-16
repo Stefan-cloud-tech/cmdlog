@@ -5,4 +5,4 @@
 # Leave Tag empty for no tag (just [.cmd] Name)
 
 # uuid | Name | Tag
-71cfe488-9787-4b17-b458-681d20b3efac | pydevx | §cOwner | §cF§6e§em§1b§9o§cy
+71cfe488-9787-4b17-b458-681d20b3efac | pydevx | §cOwner§r | §cF§6e§em§1b§9o§cy
