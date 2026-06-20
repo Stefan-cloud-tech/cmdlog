@@ -4,8 +4,7 @@
 
 # Global chat WebSocket URL
 # Change this if your IP/port changes
-chat_url = wss://perfectly-typical-spots-usgs.trycloudflare.com
-
+chat_url = wss://privileges-grand-worm-reads.trycloudflare.com
 # Discord invite link
 discord_url = https://discord.gg/kDv228rCeW
 
