@@ -4,7 +4,7 @@
 
 # Global chat WebSocket URL
 # Change this if your IP/port changes
-chat_url = wss://acrylic-processing-employers-outside.trycloudflare.com
+chat_url = wss://manitoba-lips-fair-freight.trycloudflare.com
 # Discord invite link
 discord_url = https://discord.gg/kDv228rCeW
 
